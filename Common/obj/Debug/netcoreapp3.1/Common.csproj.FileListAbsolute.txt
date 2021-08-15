@@ -1,9 +1,0 @@
-C:\Workspaces\PokerFace\Common\bin\Debug\netcoreapp3.1\Common.deps.json
-C:\Workspaces\PokerFace\Common\bin\Debug\netcoreapp3.1\Common.dll
-C:\Workspaces\PokerFace\Common\bin\Debug\netcoreapp3.1\Common.pdb
-C:\Workspaces\PokerFace\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
-C:\Workspaces\PokerFace\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
-C:\Workspaces\PokerFace\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
-C:\Workspaces\PokerFace\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
-C:\Workspaces\PokerFace\Common\obj\Debug\netcoreapp3.1\Common.dll
-C:\Workspaces\PokerFace\Common\obj\Debug\netcoreapp3.1\Common.pdb
