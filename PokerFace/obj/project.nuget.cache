@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ee4tNqSOSLXjrXa5Pr20rAKKR6zBnMmzoG3yv8pLVwutcMW91TOxZaNULXdrvVx8q4Ry+YOc0q8QW5I9c6nA9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Workspaces\\PokerFace\\PokerFace\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roisi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\roisi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
